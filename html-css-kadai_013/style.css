@@ -124,6 +124,10 @@ PC用のスタイル
     color: #ffffff;
   }
 
+  #nav-sp a:visited {
+    color: #ffffff;
+  }
+
   #nav-sp a:hover {
     text-decoration: underline;
   }
